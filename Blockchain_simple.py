@@ -1,4 +1,5 @@
-# Simple BlockChain project.
+# Simple BlockChain project, with the help of an online guide.
+# Todo: find the guide and reference it, since I used it heavily for guidance.
 
 
 # basically --> implement a database that is distributed across many computers, with a set of rules for verifying new additions to the database.
@@ -216,7 +217,7 @@ while len(txnBuffer) > 0:
 	# NOTE!: This is an infinite while loop, that lasts as long as the txnBuffer has stuff in it.
 
 
-# ffs :(
+
 # the functions dont recognise the dictionary 'state'
 # instead, you have to write state12.
 # i think its because the input to the function cant be the same name as what it is referred to.
